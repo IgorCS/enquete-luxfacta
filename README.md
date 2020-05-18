@@ -5,7 +5,8 @@
 ## Screen Preview
 
 ## Preview da tela
-https://github.com/IgorCS/enquete-luxfacta/blob/master/enquete.png
+
+https://raw.githubusercontent.com/IgorCS/enquete-luxfacta/master/img/Screenshot.png
 
 
 ## Install at local  
